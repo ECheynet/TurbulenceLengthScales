@@ -1,6 +1,6 @@
-# TurbulenceLengthScales
+# A note on the calculation of the length scales of wind turbulence
 
-## Sumamry
+## Summary
 Matlab functions to compute the integral and turbulence length scales in the atmospheric boundary layer.
 
 
