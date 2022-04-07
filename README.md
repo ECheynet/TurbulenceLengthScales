@@ -3,7 +3,7 @@
 Matlab functions to compute the integral and turbulence length scales in the atmospheric boundary layer.
 
 [![View Estimation of the length scales of wind turbulence on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/108944-estimation-of-the-length-scales-of-wind-turbulence)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6421627.svg)](https://doi.org/10.5281/zenodo.6421627)
 
 ## Summary
 
